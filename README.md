@@ -1,8 +1,17 @@
-# AWS - SQS with Lambda
-In fulfillment of PI05 Training for _VOIS DE Enterprise Web Factory
+# AWS Developer - SQS with Lambda
+
+## Table of Content
+1. [Task](#task)
+   1. [Definition](#definition)
+   2. [Acceptance Criteria](#acceptance-criteria)
+2. [Getting Started](#getting-started)
+   1. [Create SQS Queue](#create-sqs-queue)
+   2. [Create Lambda Functions](#create-lambda-functions)
+   3. [Deploy Code](#deploy-code)
+   4. [Give Permissions to Lambda Functions](#give-permissions-to-lambda-functions)
+   5. [Configure Lambda Triggers](#configure-lambda-triggers)
 
 ## Task
-Linked to [STORM-1110 - AWS developer "IAM, S3, lambda, DynamoDB, SQS"](https://de.jira.agile.vodafone.com/browse/STORM-1110)
 
 ### Definition
 
